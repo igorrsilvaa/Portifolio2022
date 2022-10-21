@@ -702,6 +702,12 @@ section {
   header {
     padding: 0 !important;
   }
+
+  .image img{
+    height: 50%;
+    width: 50%;
+    margin-top: 2rem;
+  }
   
 
   .theme-btn {
@@ -832,6 +838,12 @@ section {
   .main-title h2 .bg-text {
     font-size: 2.3rem;
   }
+
+  .image img{
+    height: 80%;
+    width: 80%;
+    margin-top: 2rem;
+  }
 }
 @media screen and (max-width: 1432px) {
   .container {
@@ -862,6 +874,12 @@ section {
   .main-title h2 .bg-text {
     font-size: 5.5rem;
   }
+
+  .image img{
+    height: 50%;
+    width: 50%;
+    margin-top: 2rem;
+  }
 }
 @media screen and (max-width: 1250px) {
   .blogs {
@@ -876,6 +894,12 @@ section {
   .header-content .right-header {
     padding-right: 9rem;
   }
+
+  .h-shape .image img{
+    height: 50%;
+    width: 50%;
+    margin-top: 2rem;
+  }
 }
 @media screen and (max-width: 660px) {
   .blogs {
@@ -884,6 +908,12 @@ section {
 
   .portfolios {
     grid-template-columns: repeat(1, 1fr);
+  }
+
+  .image img{
+    height: 50%;
+    width: 50%;
+    margin-top: 2rem;
   }
 }
 @media screen and (max-width: 1070px) {
@@ -902,6 +932,12 @@ section {
   }
   .main-title h2 .bg-text {
     font-size: 4.5rem;
+  }
+
+  .image img{
+    height: 50%;
+    width: 50%;
+    margin-top: 2rem;
   }
 }
 @media screen and (max-width: 970px) {
@@ -937,6 +973,12 @@ section {
     text-align: center;
     padding-top: 3rem;
   }
+
+  .image img{
+    height: 80%;
+    width: 80%;
+    margin-top: 2rem;
+  }
 }
 @media screen and (max-width: 700px) {
   .container {
@@ -963,6 +1005,11 @@ section {
   }
   .main-title h2 .bg-text {
     font-size: 4rem;
+  }
+  .image img{
+    height: 40%;
+    width: 40%;
+    margin-top: 2rem;
   }
 }
 
