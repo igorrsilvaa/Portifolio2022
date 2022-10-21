@@ -8,7 +8,7 @@
 :root {
   --color-primary: #191622;
   --color-secondary: #d1c757;
-  --color-white: #FFFFFF;
+  --color-white: #ffffff;
   --color-black: #000;
   --color-grey0: #f8f8f8;
   --color-grey-1: #dbe1e8;
@@ -23,17 +23,17 @@
 
 /*Thema LIGTH*/
 .light-mode {
-  --color-primary: #fff0f0; 
-  --color-secondary: #D1C757;
-  --color-white: #454e56;
+  --color-primary: #eef8f8; 
+  --color-secondary: #d1c757;
+  --color-white: #000000;
   --color-black: #000;
   --color-grey0: #f8f8f8;
   --color-grey-1: #6c7983;
   --color-grey-2: #6c7983;
   --color-grey-3: #6c7983;
   --color-grey-4: #454e56;
-  --color-grey-5: #f8f8f8;
-  --color-grey-6: #12181b;
+  --color-grey-5: #150e2493;
+  --color-grey-6: #070808;
 }
 
 body {
